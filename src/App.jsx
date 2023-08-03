@@ -23,7 +23,7 @@ const App = () => {
         <div className={Styles.ContentRight}>
           <ul>
             <Button href="https://github.com/RadNotRed" icon={faGithub} label="GitHub" />
-            <Button href="https://discord.com/users/113027285765885952" icon={faDiscord} label="Discord" />
+            <Button href="https://discord.com/users/610945092504780823" icon={faDiscord} label="Discord" />
             <Button href="https://open.spotify.com/user/31ktcyhbhbwssktqfgpdb5cznydy" icon={faSpotify} label="Spotify" />
             <Button href="https://paypal.me/radnotred" icon={faPaypal} label="PayPal" />
             <Button href="mailto:me@radnotred.dev" icon={faEnvelope} label="E-Mail" />
@@ -38,6 +38,8 @@ const App = () => {
             I'm going to college for Criminal Justice Technology, but I'm also a programmer when I feel like it. 
             I'm currently working on an app for my high school, which is written in <span>Dart</span> and <span>Flutter</span> as the framework.
             I currently use <span>TypeScript</span>, <span>Python</span>, and <span>Java</span>.
+
+            My only discord accounts are [@radnotred1](https://discord.com/users/610945092504780823) and [@radacul](https://discord.com/users/465479924782989312). No others are mine. If you cannot add me on there, you can add my [matrix](https://matrix.org/) account @radnotred:matrix.org.
           </p>
         </div>
       </div>
