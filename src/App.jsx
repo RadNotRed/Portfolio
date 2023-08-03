@@ -39,7 +39,7 @@ const App = () => {
             I'm currently working on an app for my high school, which is written in <span>Dart</span> and <span>Flutter</span> as the framework.
             I currently use <span>TypeScript</span>, <span>Python</span>, and <span>Java</span>.
 
-            My only discord accounts are [@radnotred1](https://discord.com/users/610945092504780823) and [@radacul](https://discord.com/users/465479924782989312). No others are mine. If you cannot add me on there, you can add my [matrix](https://matrix.org/) account @radnotred:matrix.org.
+            My only discord accounts are @radnotred1 and @radacul. No others are mine. If you cannot add me on there, you can add my matrix account @radnotred:matrix.org.
           </p>
         </div>
       </div>
